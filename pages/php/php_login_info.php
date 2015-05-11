@@ -1,0 +1,1 @@
+$mysqli = new mysqli('localhost', "aman", "atlanta12", "targetit");
